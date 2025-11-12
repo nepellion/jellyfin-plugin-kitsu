@@ -12,7 +12,7 @@ namespace Jellyfin.Plugin.Kitsu
     {
         public override string Name => "Kitsu";
 
-        public override Guid Id => Guid.Parse("88d809e2-056b-47f4-9911-073949b9963f");
+        public override Guid Id => Guid.Parse("71d15fb1-c980-43f1-8646-3ba15c3ee68e");
 
         public Plugin(IApplicationPaths applicationPaths, IXmlSerializer xmlSerializer) : base(applicationPaths, xmlSerializer)
         {

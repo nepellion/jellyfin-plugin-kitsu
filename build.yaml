@@ -1,6 +1,6 @@
 ---
-name: "Kitsu"
-guid: "88d809e2-056b-47f4-9911-073949b9963f"
+name: "Kitsu (nep fork)"
+guid: "71d15fb1-c980-43f1-8646-3ba15c3ee68e"
 imageUrl: "https://repo.jellyfin.org/releases/plugin/images/jellyfin-plugin-kitsu.png"
 version: 7
 targetAbi: "10.11.0.0"
@@ -10,7 +10,7 @@ description: >
   Kitsu metadata provider
 
 category: "Anime"
-owner: "jellyfin"
+owner: "nepellion"
 artifacts:
   - "Jellyfin.Plugin.Kitsu.dll"
 changelog: |-
